@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-Repository containing portfolio of data science projects competed, or in progress for academic and self-learning. 
+Hi. My name is Lee Yonghae. This is my repository containing portfolio of data science projects competed, or in progress for academic and self-learning. 
 All Projects are presented in jupyter-notebook format.
 
 Python: NumPy, Pandas, Seaborn, Matplotlib, scipy.stats 
