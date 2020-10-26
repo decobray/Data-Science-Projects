@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-Hi. My name is Lee Yonghae. I have created this project for the ease of distributing my portfolio in applying for NH투자증권. This is my repository containing portfolio of data science projects competed, or in progress for academic and self-learning. 
+Hi. My name is Lee Yonghae. I have created this project for the ease of distributing my portfolio in applying for 신한금융투자. This is my repository containing portfolio of data science projects competed, or in progress for academic and self-learning. 
 All Projects are presented in jupyter-notebook format.
 
 Python: NumPy, Pandas, Seaborn, Matplotlib, scipy.stats 
